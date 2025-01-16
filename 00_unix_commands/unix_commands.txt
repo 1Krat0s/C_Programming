@@ -26,3 +26,7 @@ Lesson 1 notes: Introduction to C
 1. git status shows savable files
 
 2. git add <file_name> / git add . - adds file or all files to repository
+
+3. git commit -m "important text"
+
+4. git push - pushes into repository

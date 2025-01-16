@@ -1,0 +1,13 @@
+Lesson 2 notes
+
+1. %d is a conversion specifier
+
+2. always add #include <stdio.h>
+
+- All variables need a NAME and a DATA TYPE before they can be used.
+    - A DATA TYPE specifies what type of data that variable can store.
+-Variable names:
+    -May consist of letters, digits, and underscores.
+    -May not begin with a digit.
+    -Should be meaningful.
+    -Shouldn't be a keyword.

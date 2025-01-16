@@ -1,0 +1,28 @@
+Lesson 1 notes: Introduction to C
+
+1. mkdir <directory_name> (make directory). Creates a folder.
+
+2. cd <directory_name> (change directory). Changes the current directory to the specified one.
+
+3. code <file_name>. Creates a file and opens it in a text editor.
+
+4. ls (list). Shows the content of the current directory.
+
+5. pwd (print working directory). Shows the path of the current directory.
+
+6. clear. Clears the terminal window.
+
+7. gcc <file_name (c source code)>. compile the program.
+
+8. ./<executable_file>. runs the program.
+
+9. \ - escape character 
+
+10. \* - escape sequence
+
+11. cd .. - goes back one level in the directory
+
+
+1. git status shows savable files
+
+2. git add <file_name> / git add . - adds file or all files to repository
